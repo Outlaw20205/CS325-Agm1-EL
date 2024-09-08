@@ -3,4 +3,4 @@ Ethan Lawrence
 
 Includes 2 programs:
 - The first program takes an input and returns the square
-- The second takes a number (0-99) and will return a current Cardinals player with that number
+- The second prints the current Cardinals roster
